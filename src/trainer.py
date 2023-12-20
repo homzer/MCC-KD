@@ -153,7 +153,9 @@ class DistributedTrainer:
                   outputs2: List[str],
                   indices1,
                   indices2,
-                  alpha: float = 1.0):
+                  alpha: float = 1.0,
+                  temperature: float = 1.0
+                  ):
         example1 = self.__prepare_for_training(instructions=instructions, outputs=outputs1)
         example2 = self.__prepare_for_training(instructions=instructions, outputs=outputs2)
         logits1 = self.model.forward(example1.tokens)
@@ -186,8 +188,8 @@ class DistributedTrainer:
             P = P[unexceeded_batch_indices]
             Q = Q[unexceeded_batch_indices]
             M = (torch.sum(P, dim=-1) != 0)
-            P = torch.softmax(P, dim=-1)
-            Q = torch.softmax(Q, dim=-1)
+            P = torch.softmax(P / temperature, dim=-1)
+            Q = torch.softmax(Q / temperature, dim=-1)
             kl_loss = kl_div_loss(P, Q, weights=M)
         else:
             kl_loss = torch.tensor(0.0)

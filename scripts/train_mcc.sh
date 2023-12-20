@@ -10,4 +10,5 @@ torchrun --nproc_per_node 1 train_mcc.py \
 --accumulation_steps 4 \
 --lora_rank 64 \
 --eval_batch_size 24 \
---epochs 12
+--epochs 12 \
+--t 1.3

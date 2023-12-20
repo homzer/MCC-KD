@@ -14,7 +14,7 @@ from src.trainer import DistributedTrainer
 from src.utils import setup_model_parallel
 
 
-def training_with_mcc(trainer: DistributedTrainer, data: dict, alpha: float, n=2):
+def training_with_mcc(trainer: DistributedTrainer, data: dict, alpha: float, n=2, t: float = 1.0):
     indices = random.sample([i for i in range(n)], 2)
     outputs = trainer.train_mcc(
         instructions=data['instruction'],
@@ -22,7 +22,8 @@ def training_with_mcc(trainer: DistributedTrainer, data: dict, alpha: float, n=2
         outputs2=data['output'][indices[1]],
         indices1=data['indices'][indices[0]],
         indices2=data['indices'][indices[1]],
-        alpha=alpha
+        alpha=alpha,
+        temperature=t
     )
     if trainer.step % 50 == 0:
         print(f'step {trainer.step} ----------------------------------')
@@ -47,6 +48,7 @@ def main(
         max_seq_len: int = 512,
         max_batch_size: int = 1,
         accumulation_steps: int = 2,
+        t: float = 1.0,
         lr: float = 1e-5,
         epochs: int = 1,
         alpha: float = 0.1,
@@ -83,7 +85,7 @@ def main(
                 output_file=f'{task}-alpha-{alpha}-init',
             )
         for data in tqdm(data_loader):
-            training_with_mcc(trainer, data, alpha, n=diversity)
+            training_with_mcc(trainer, data, alpha, n=diversity, t=t)
         acc = trainer.evaluate(
             task=task,
             label_file=f'data/{task}/dev.json',
