@@ -23,12 +23,12 @@ Make sure to include "indices" to record the starting and ending indices of the 
     "label": "...",
     "indices": [
         [
-            start_answer_idx_of_rationale1,
-            end_answer_idx_of_rationale1
+            "start_answer_idx_of_rationale1",
+            "end_answer_idx_of_rationale1"
         ],
         [
-            start_answer_idx_of_rationale2,
-            end_answer_idx_of_rationale2
+            "start_answer_idx_of_rationale2",
+            "end_answer_idx_of_rationale2"
         ]
     ]
   }  
