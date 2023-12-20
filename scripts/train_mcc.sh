@@ -6,8 +6,8 @@ torchrun --nproc_per_node 1 train_mcc.py \
 --train_file data/gsm8k/teacher_mcc.json \
 --save_dir result/7B/train-mcc/ \
 --alpha 0.01 \
---max_batch_size 1 \
---accumulation_steps 4 \
+--max_batch_size 2 \
+--accumulation_steps 2 \
 --lora_rank 64 \
 --eval_batch_size 24 \
 --epochs 12 \
