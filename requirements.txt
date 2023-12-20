@@ -1,0 +1,8 @@
+datasets
+fairscale
+fire
+numpy
+torch
+tqdm
+transformers
+sentencepiece

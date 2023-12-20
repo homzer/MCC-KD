@@ -1,0 +1,1572 @@
+[
+    {
+        "instruction": "I see 115 cows grazing in the pasture. How many legs do I see?\n",
+        "output": "",
+        "label": "460"
+    },
+    {
+        "instruction": "A cafeteria sold 49 cartons of regular flavored milk. If the ratio of regular milk sold to chocolate milk sold was 7:2, what is the combined amount of chocolate and regular milk sold?\n",
+        "output": "",
+        "label": "63"
+    },
+    {
+        "instruction": "The sum of the digits of a two digit number is 15. If the digits in the tenth place 8, find the two digit number.\n",
+        "output": "",
+        "label": "87"
+    },
+    {
+        "instruction": "Rosa is making a game board that is 16 inches by 24 inches. She wants to use square tiles. What is the largest tile she can use?\n",
+        "output": "",
+        "label": "8"
+    },
+    {
+        "instruction": "A truck can hold four boxes. If you needed to move eight hundred seventy-one boxes across town, how many trips would you need to make?\n",
+        "output": "",
+        "label": "218"
+    },
+    {
+        "instruction": "A square garden has a perimeter of 48 meters. A pond inside the garden has an area of 20 square meters. What is the area of the garden that is not taken up by the pond?\n",
+        "output": "",
+        "label": "124"
+    },
+    {
+        "instruction": "Jennifer has an 87 cm long ribbon. She uses 24 cm of the ribbon to tie a present for her friend and 45 cm of the ribbon to make a bow. How much of the ribbon is left in the end?\n",
+        "output": "",
+        "label": "18"
+    },
+    {
+        "instruction": "Sara's mother gave her $69 to go to the store. Sara bought 3 loaves of bread and 5 cartons of orange juice. Each loaf of bread cost $2 and each carton of orange juice cost $3. How much money does Sara have left?\n",
+        "output": "",
+        "label": "48"
+    },
+    {
+        "instruction": "Still a little behind, Robyn asked her mother to drive them around town on Wednesday to cover more houses. That day Robyn sold 55 packs of cookies while Lucy sold 43. How many packs were they able to sell that day?\n",
+        "output": "",
+        "label": "98"
+    },
+    {
+        "instruction": "There are 270 seats in a movie theater. If the movie theater has 9 sections with the same number of seats in each section, how many seats are in each section?\n",
+        "output": "",
+        "label": "30"
+    },
+    {
+        "instruction": "A mailman has to give twenty-eight pieces of junk mail to each block. If there are four houses on a block, how many pieces of junk mail should he give each house?\n",
+        "output": "",
+        "label": "7"
+    },
+    {
+        "instruction": "Christmas came and as usual she received 77 gifts to put under the Christmas tree. She wanted to make other kids happy so she sent 66 of her gifts to the orphanage downtown. How many gifts were left under their Christmas tree?\n",
+        "output": "",
+        "label": "11"
+    },
+    {
+        "instruction": "Roger had sixty-three dollars. If he spent forty-eight bucks on a new game, how many three dollar toys could he buy with the money he had left?\n",
+        "output": "",
+        "label": "5"
+    },
+    {
+        "instruction": "To add support on the house's connections, he decided to tie the wood joints with rope. He needs 185 feet of rope. If he has 46 feet of rope with him and at the moment he only needed 57 feet, how many feet of rope did his friends give to him?\n",
+        "output": "",
+        "label": "82"
+    },
+    {
+        "instruction": "Mrs. Hilt baked pies last weekend for a holiday dinner. She baked 16 pecan pies and 14 apples pies. If she wants to arrange all of the pies in rows of 5 pies each, how many rows will she have?\n",
+        "output": "",
+        "label": "6"
+    },
+    {
+        "instruction": "Victor and his friend were buying trick decks from the magic shop for eight dollars each. How much did they spend if Victor bought six decks and his friend bought two decks?\n",
+        "output": "",
+        "label": "64"
+    },
+    {
+        "instruction": "Sharon has seven plums. Allan has 10 plums. What's the difference of the number of Sharon's plums and Allan's plums?\n",
+        "output": "",
+        "label": "3"
+    },
+    {
+        "instruction": "You have $12 in nickels and quarters. If you have the same number of each kind of coin, how many nickels do you have?\n",
+        "output": "",
+        "label": "40"
+    },
+    {
+        "instruction": "Thanksgiving is coming and Dr. Mary wants to celebrate it by sharing her blessing to different charities. She first went to Oldtown where she donated $700.00 in total to three different nursing homes. If she gave $245.00 to the first home and $225.00 to the second, how much did she give to the third home?\n",
+        "output": "",
+        "label": "230"
+    },
+    {
+        "instruction": "Jessica spent half of her allowance going to the movies. She washed the family car and earned six dollars. What is her weekly allowance if she ended with eleven dollars ?\n",
+        "output": "",
+        "label": "10"
+    },
+    {
+        "instruction": "If Lizzie's group is composed of 54 people and they have 17 more members than the other group, how many people are working together to clean the city?\n",
+        "output": "",
+        "label": "91"
+    },
+    {
+        "instruction": "Two wires with lengths of 448 cm and 616 cm are to be cut into pieces of all the same length without remainder. What is the greatest possible length of the pieces?\n",
+        "output": "",
+        "label": "56"
+    },
+    {
+        "instruction": "Keith has 5530 marbles and 3 pencils. If he shares the marbles among 79 friends, how many marbles does each friend get?\n",
+        "output": "",
+        "label": "70"
+    },
+    {
+        "instruction": "A group of 4 friends were playing video games. Later 3 more friends came over. How many people were there total?\n",
+        "output": "",
+        "label": "7"
+    },
+    {
+        "instruction": "A chef only had 3 apples so he ordered 2 more bags. If each bag has 9 apples, how many apples does he have total?\n",
+        "output": "",
+        "label": "21"
+    },
+    {
+        "instruction": "Mika measures the lens on a magnifying glass and calculates that it has a circumference of 31.4 centimeters. What is the lens's diameter?\n",
+        "output": "",
+        "label": "10"
+    },
+    {
+        "instruction": "Mike has 64 action figures he wants to display. If each shelf in his room can hold 8 figures, how many shelves does he need?\n",
+        "output": "",
+        "label": "8"
+    },
+    {
+        "instruction": "There are 250 vitamins in a bottle. Gil takes 12 vitamins per day. How many vitamins short of his usual 12 vitamins is Gil on the day the bottle runs out?\n",
+        "output": "",
+        "label": "2"
+    },
+    {
+        "instruction": "Haley bought 11 new shirts for school. If she returned 6 of them, how many did she end up with?\n",
+        "output": "",
+        "label": "5"
+    },
+    {
+        "instruction": "Georgia had 24 yellow buttons, 16 black buttons and 19 green buttons. She gave some of the buttons to Mary and now Georgia has 13 buttons left. How many buttons did Georgia give Mary?\n",
+        "output": "",
+        "label": "46"
+    },
+    {
+        "instruction": "He wanted to make sure that he is protected from the cold evenings in the forest so he decided to build a fireplace made of cement. If he bought 215 lbs of cement and his son brought another 137 lbs, how much cement did he have originally if he now has 450 lbs?\n",
+        "output": "",
+        "label": "98"
+    },
+    {
+        "instruction": "Amy's hair was eleven inches long. After a haircut it was seven inches long. How much did she cut off? \n",
+        "output": "",
+        "label": "4"
+    },
+    {
+        "instruction": "The Ferris wheel in Paradise Park has 14 seats. Each seat can hold 6 people. How many people can ride the Ferris wheel at the same time?\n",
+        "output": "",
+        "label": "84"
+    },
+    {
+        "instruction": "Victor had $10. For his allowance he got another $8. How much money does he have total?\n",
+        "output": "",
+        "label": "18"
+    },
+    {
+        "instruction": "If five is subtracted from three times a certain number, the result is 10. What is the number?\n",
+        "output": "",
+        "label": "5"
+    },
+    {
+        "instruction": "Tiffany was buying hand towels for her house. She bought 9 packs with each pack having 3 towels in it. How many towels did she buy?\n",
+        "output": "",
+        "label": "27"
+    },
+    {
+        "instruction": "A lawn had an area of 20 square feet. If it was 5 feet width, how long was it?\n",
+        "output": "",
+        "label": "4"
+    },
+    {
+        "instruction": "Maria had fifty sheets of paper in her desk and forty-one more in her backpack. How many did she have total?\n",
+        "output": "",
+        "label": "91"
+    },
+    {
+        "instruction": "Gavin has 23 shirts. 6 are blue the rest are green. How many green shirts does Gavin have?\n",
+        "output": "",
+        "label": "17"
+    },
+    {
+        "instruction": "Paul made forty-four dollars mowing lawns and twenty-eight dollars weed eating. If he only spent nine dollar a week, how long would the money last him?\n",
+        "output": "",
+        "label": "8"
+    },
+    {
+        "instruction": "Mrs. Hilt made 5 Rice Krispie Treats. She used 8 large marshmallows and 10 mini marshmallows. How many marshmallows did she use altogether?\n",
+        "output": "",
+        "label": "18"
+    },
+    {
+        "instruction": "Haley had 2 dollars. If she got 13 more dollars in total for doing chores and her birthday, what's the difference between the number of dollars before Haley got money and she got from events?\n",
+        "output": "",
+        "label": "11"
+    },
+    {
+        "instruction": "If 10 years ago he was 25 years old, how old is Rojer now?\n",
+        "output": "",
+        "label": "35"
+    },
+    {
+        "instruction": "A trivia team had 9 members total, but during a game 3 members didn't show up. If each member that did show up scored 2 points, how many points were scored total?\n",
+        "output": "",
+        "label": "12"
+    },
+    {
+        "instruction": "Mrs. Hilt traveled 6, 760 miles to Japan. She read one book every 450 miles she traveled. How many books had she finished when she got to Japan?\n",
+        "output": "",
+        "label": "15"
+    },
+    {
+        "instruction": "A rectangle had a length of 2 inches and a width of 4 inches. What is the area of the rectangle?\n",
+        "output": "",
+        "label": "8"
+    },
+    {
+        "instruction": "Shelley has 12 forks and 16 knives to place in silverware holders at the fast food restaurant where she works. She wants to distribute them equally, with no forks or knives left over. What is the greatest number of silverware holders Shelley can stock?\n",
+        "output": "",
+        "label": "4"
+    },
+    {
+        "instruction": "The Vance family walked over to the post office. They bought 2 rooster stamps and 2 daffodil stamps. What's the difference between of the number of the two kinds of stamps?\n",
+        "output": "",
+        "label": "0"
+    },
+    {
+        "instruction": "Adam was painting a wall in his room. The wall was 4 feet wide and 4 feet tall. What is the area of the wall he has to paint?\n",
+        "output": "",
+        "label": "16"
+    },
+    {
+        "instruction": "An art museum had 15 pictures to split equally into 2 different exhibits. How many more pictures would they need to make sure each exhibit had the same amount?\n",
+        "output": "",
+        "label": "1"
+    },
+    {
+        "instruction": "There are 650 students in a school. If the number of girls is 106 more than the boys, how many boys are there in the school?\n",
+        "output": "",
+        "label": "272"
+    },
+    {
+        "instruction": "For Halloween Frank got ten pounds of candy and Gwen got seven pounds of candy. What is the combined weight they received?\n",
+        "output": "",
+        "label": "17"
+    },
+    {
+        "instruction": "Caitlin is on the 13th step of a giant slide. She walked down 4 steps to talk to her friend Dana. Then she walked up 12 steps to the top. How many steps does the giant slide have?\n",
+        "output": "",
+        "label": "21"
+    },
+    {
+        "instruction": "172 students are forming teams for a mountaineering competition. Each team should have 18 students. How many teams can they form?\n",
+        "output": "",
+        "label": "9"
+    },
+    {
+        "instruction": "Kyle bought 3 presents. The first present cost $18. The second present cost $7 more than the first. The third present cost $11 less than the first. How much did Kyle pay for all 3 presents?\n",
+        "output": "",
+        "label": "50"
+    },
+    {
+        "instruction": "The perimeter of a rectangular cutting board is 50 inches. It is 10 inches wide. How long is it?\n",
+        "output": "",
+        "label": "15"
+    },
+    {
+        "instruction": "Janet picked 4 tulips and 11 roses to make flower bouquets. If she only used 11 of the flowers though, how many extra flowers did Janet pick? \n",
+        "output": "",
+        "label": "4"
+    },
+    {
+        "instruction": "A pallet of boxes weighed 267 kilograms. If there were 3 boxes on the pallet and each box weighed the same amount, how much did each weigh?\n",
+        "output": "",
+        "label": "89"
+    },
+    {
+        "instruction": "A worm has fallen into a hole that is 26 inches deep. It climbs up 8 inches and slides back 3 inches every day. How many days will it take the worm to reach the top?\n",
+        "output": "",
+        "label": "5"
+    },
+    {
+        "instruction": "At the state fair Paul bought eleven tickets. If he spent three tickets on the Ferris wheel. How many tickets did he have left?\n",
+        "output": "",
+        "label": "8"
+    },
+    {
+        "instruction": "Jermaine saved $43 in March. He saved $19 in April and $16 in May. Then Jermaine spent $77 on a keyboard. How much money does Jermaine have left?\n",
+        "output": "",
+        "label": "1"
+    },
+    {
+        "instruction": "An architect was building a hotel downtown. He built it 3 stories tall with 8 rooms on each story. How many rooms does the hotel have totaled?\n",
+        "output": "",
+        "label": "24"
+    },
+    {
+        "instruction": "The third graders are having a fair. They have 90 tickets to sell. They sold 38 tickets the first week and 17 tickets the second week. How many tickets do they have left to sell?\n",
+        "output": "",
+        "label": "35"
+    },
+    {
+        "instruction": "There were nine kinds of sandwiches on the menu. Unfortunately, five of them had been sold out, how many kinds of sandwiches do they actually provide now?\n",
+        "output": "",
+        "label": "4"
+    },
+    {
+        "instruction": "There are 397 butterflies. Each butterfly has 12 black dots and 17 yellow dots. How many black dots are there in all?\n",
+        "output": "",
+        "label": "4764"
+    },
+    {
+        "instruction": "Jose has 28 chickens and 18 ducks. How many fowls does he have?\n",
+        "output": "",
+        "label": "46"
+    },
+    {
+        "instruction": "There are 43 students and 1720 apples. Each student has 9 Skittles. If the apples are divided equally among the students, how many does each student get?\n",
+        "output": "",
+        "label": "40"
+    },
+    {
+        "instruction": "At the arcade Debby spent 2 tickets on a hat, 10 on a stuffed animal and 2 on a yoyo. How many tickets did she spend total? \n",
+        "output": "",
+        "label": "14"
+    },
+    {
+        "instruction": "Megan and her sister, Tara, wanted to buy a scooter for $26. Tara had $4 more than Megan. Together they had enough money to buy the scooter. How much money did Tara have?\n",
+        "output": "",
+        "label": "15"
+    },
+    {
+        "instruction": "There are 5 people on the Green Bay High track team. If a relay race is 150 meters long, and all 5 team members participate, how far will each team member have to run?\n",
+        "output": "",
+        "label": "30"
+    },
+    {
+        "instruction": "Molly had 14 candles on her birthday cake. She grew older and got 6 more on her birthday cake. How old is Molly now?\n",
+        "output": "",
+        "label": "20"
+    },
+    {
+        "instruction": "On Friday, 1,250 people visited the zoo. Three times as many people visited on Saturday than on Friday. How many people visited the zoo on Saturday?\n",
+        "output": "",
+        "label": "3750"
+    },
+    {
+        "instruction": "Divide 39 balloons into 7 equal groups. How many balloons are there in each group?\n",
+        "output": "",
+        "label": "5"
+    },
+    {
+        "instruction": "Olivia gave her cat two cheese cubes. Now Olivia has ninety-eight cheese cubes left. How many cheese cubes did Olivia have originally?\n",
+        "output": "",
+        "label": "100"
+    },
+    {
+        "instruction": "Dora is having her tenth birthday party next Saurday. She invited 64 people. Her mom ordered 36 sandwiches. 16 people can not come to the party. How many people will be at Dora's party?\n",
+        "output": "",
+        "label": "48"
+    },
+    {
+        "instruction": "Megan had three hundred seventy-two songs on her mp3 player. If she wanted to put the songs equally into nine different playlists, how many songs would she have left over?\n",
+        "output": "",
+        "label": "3"
+    },
+    {
+        "instruction": "Twenty-two boys went down the slide. Thirteen more boys went down the slide. How many boys went down the slide?\n",
+        "output": "",
+        "label": "35"
+    },
+    {
+        "instruction": "Before reaching the mountains, Stanley stopped over a car shop to buy new tires for the road. If he bought four tires each for $60.00, how much did he spend for tires in total?\n",
+        "output": "",
+        "label": "240"
+    },
+    {
+        "instruction": "Lastly, she baked 53 lemon cupcakes for the children living in the city orphanage. If two lemon cupcakes were left at home, how many boxes with 3 lemon cupcakes each were given away?\n",
+        "output": "",
+        "label": "17"
+    },
+    {
+        "instruction": "Adam had 8 boxes of toys. Each box had 6 toys. Later Adam bought 5 more toys. How many toys did he have total?\n",
+        "output": "",
+        "label": "53"
+    },
+    {
+        "instruction": "After the cleaning the rivers they went on to tidy up the farmlands. If Lizzie's group covered 250 square feet of land and the other group covered 265, how many more square feet of land remains to be cleaned if there is total of 900 square feet of land?\n",
+        "output": "",
+        "label": "385"
+    },
+    {
+        "instruction": "Finally, they had to roam around 169 factories to make sure they are throwing their wastes properly. If their group went to 69 factories and the second went to 52, how many factories remain unchecked?\n",
+        "output": "",
+        "label": "48"
+    },
+    {
+        "instruction": "Mrs. Hilt spent 1 hour and 30 minutes shoveling snow on Saturday morning and 45 minutes shoveling snow on Saturday afternoon. How much total time did she spend shoveling snow?\n",
+        "output": "",
+        "label": "135"
+    },
+    {
+        "instruction": "Mrs. Hilt has 50 cents. A pencil costs 5 cents. How many pencils can she buy with the money she has?\n",
+        "output": "",
+        "label": "10"
+    },
+    {
+        "instruction": "George bought 17 pieces of candy to give to 5 of his friends. If he wants to give each friend the same amount, how many pieces would he have left over?\n",
+        "output": "",
+        "label": "2"
+    },
+    {
+        "instruction": "Cristina baked 17 croissants. If she planned to serve this equally to her seven guests, how many will each have?\n",
+        "output": "",
+        "label": "2"
+    },
+    {
+        "instruction": "The Wildcats scored 36 points in the first half of the game. The Panthers scored 17 points. How many more points did the Wildcats score?\n",
+        "output": "",
+        "label": "19"
+    },
+    {
+        "instruction": "Jerry was selling his old games. He started out with sixty-eight but sold four of them. He packed the rest up putting eight games into each box. How many boxes did he have to use?\n",
+        "output": "",
+        "label": "8"
+    },
+    {
+        "instruction": "Mrs. Wilson, the math teacher, has 18 logic puzzles and 9 visual puzzles that she wants to group into sets for students who finish their tests early. Mrs. Wilson wants each set to be identical, containing the same combination of logic puzzles and visual puzzles, with no puzzles left over. What is the greatest number of sets she can create?\n",
+        "output": "",
+        "label": "9"
+    },
+    {
+        "instruction": "An architect was building his two story house. On the first floor the house had 6 bedrooms and the second floor had 4 bedrooms. How many bedrooms does the house have totaled?\n",
+        "output": "",
+        "label": "10"
+    },
+    {
+        "instruction": "Bryan took a look at his books as well. If he has 56 books in each of his 9 bookshelves, how many books does he have in total?\n",
+        "output": "",
+        "label": "504"
+    },
+    {
+        "instruction": "A baker sold twelve cakes. Now he has three cakes. How many cakes did the baker have to start with? \n",
+        "output": "",
+        "label": "15"
+    },
+    {
+        "instruction": "Lizette has 813 stamps. She has 125 more stamps than Minerva. How many stamps does Minerva have?\n",
+        "output": "",
+        "label": "688"
+    },
+    {
+        "instruction": "Connie had some marbles. She gave 183 to Juan. Now she has 593 marbles left. How many did she have to start with?\n",
+        "output": "",
+        "label": "776"
+    },
+    {
+        "instruction": "Sullivan Stationery sells cards in packs of 20 and envelopes in packs of 17. If Vera wants the same number of each, what is the minimum number of cards that she will have to buy?\n",
+        "output": "",
+        "label": "340"
+    },
+    {
+        "instruction": "During a sale, a shoe store sold 2 pairs of sneakers, 4 pairs of sandals and 11 pairs of boots. How many pairs of shoes did the store sell? \n",
+        "output": "",
+        "label": "17"
+    },
+    {
+        "instruction": "Jasmine also bought some chips for her friends in which she got for a discount of $17.00. If the chips originally cost $35.00, how much did she actually spend on chips?\n",
+        "output": "",
+        "label": "18"
+    },
+    {
+        "instruction": "For Halloween Isabel received sixteen pieces of candy from neighbors and five pieces from her older sister. If she only ate three pieces a day, how long would the candy last her?\n",
+        "output": "",
+        "label": "7"
+    },
+    {
+        "instruction": "2 birds were sitting on the fence. 4 more birds came to join them. How many birds are sitting on the fence?\n",
+        "output": "",
+        "label": "6"
+    },
+    {
+        "instruction": "532 people are watching a movie in a theater. The theater has 750 seats. How many seats are empty in the theater?\n",
+        "output": "",
+        "label": "218"
+    },
+    {
+        "instruction": "Mr. Fortree, a businessman also gave seedlings for the tree planting activity. If he gave 14 seedlings of cedar and 38 seedlings of pine, how many seedlings did he give in total?\n",
+        "output": "",
+        "label": "52"
+    },
+    {
+        "instruction": "Last week Howard had 26 dollars. He washed windows over the weekend and now has 52 dollars. How much money did he make washing windows?\n",
+        "output": "",
+        "label": "26"
+    },
+    {
+        "instruction": "Warren ran 1 lap on Wednesday, 2 laps on Thursday, 4 laps on Friday, 8 laps on Saturday, and 16 laps on Sunday. If this pattern continues, how many laps will Warren run on Monday?\n",
+        "output": "",
+        "label": "32"
+    },
+    {
+        "instruction": "One bright sunny day, Betty decided to make bracelets from beautiful stones she bought from a local store. She bought 88 pink flower stones and wanted to make 8 bracelets out of these stones. How many pink flower stones will each bracelet have if she used the same number of stones in each bracelet?\n",
+        "output": "",
+        "label": "11"
+    },
+    {
+        "instruction": "A video uploaded had 18 'up votes'. If the ratio of 'up votes' to 'down votes' was 9:2, how many 'down votes' did the video get?\n",
+        "output": "",
+        "label": "4"
+    },
+    {
+        "instruction": "At the fair Amy started with thirty-three tickets and then bought twenty-one more. How many tickets did Amy have total?\n",
+        "output": "",
+        "label": "54"
+    },
+    {
+        "instruction": "Katie spent a total $350.00 on her whole stay in the island. If she spent $125.00 on food and $135.00 on hotel rooms, how much did she spend on buying other stuff?\n",
+        "output": "",
+        "label": "90"
+    },
+    {
+        "instruction": "The area of a rectangular garden is 1800 sq. ft. Find the width if its height measures 40 ft.\n",
+        "output": "",
+        "label": "45"
+    },
+    {
+        "instruction": "Tiffany was sending out birthday invitations to her friends. She sent out nine on Monday and eight on Tuesday. How many did she send total?\n",
+        "output": "",
+        "label": "17"
+    },
+    {
+        "instruction": "Mrs. Hilt saw 3 bugs eat two flowers each. How many flowers total did the bugs eat?\n",
+        "output": "",
+        "label": "6"
+    },
+    {
+        "instruction": "There were 8 ducks swimming in the pond. 3 ducks flew away. How many ducks are still swimming in the pond?\n",
+        "output": "",
+        "label": "5"
+    },
+    {
+        "instruction": "Frank has a round tablecloth with a diameter of 10 feet. What is the tablecloth's radius?\n",
+        "output": "",
+        "label": "5"
+    },
+    {
+        "instruction": "Jesse's room is 12 feet long and 8 feet wide. How much carpet does she need to cover the whole floor?\n",
+        "output": "",
+        "label": "96"
+    },
+    {
+        "instruction": "Dan's high school played eighteen baseball games this year and two were at night. The team won most of their games. They were defeated during three games. How many games did they win ?\n",
+        "output": "",
+        "label": "15"
+    },
+    {
+        "instruction": "Ariel is making flower arrangements. He has 7 roses and 14 daisies. If Ariel wants to make all the arrangements identical and have no flowers left over, what is the greatest number of flower arrangements that he can make? \n",
+        "output": "",
+        "label": "7"
+    },
+    {
+        "instruction": "After the framework was finished, they asked 239 monkeys and 622 termites to finish the rest of the building. How many workers finished the rest of the construction?\n",
+        "output": "",
+        "label": "861"
+    },
+    {
+        "instruction": "Jean had a bag of candy. She gave 18 pieces to her friend. Jean ate 7 pieces. Now she has 16 pieces left. How many pieces of candy did Jean have at first?\n",
+        "output": "",
+        "label": "41"
+    },
+    {
+        "instruction": "Sam and Carlos are bowling with plastic pins in Sam's living room. Remarkably, Sam knocks down 8 pins on every bowl, and Carlos knocks down 9 pins on every bowl. At the end of the day, Sam and Carlos have knocked down the same total number of pins. What is the least number of total pins that Sam and Carlos could have each knocked down?\n",
+        "output": "",
+        "label": "72"
+    },
+    {
+        "instruction": "I see 105 puppies. How many ears do they have?\n",
+        "output": "",
+        "label": "210"
+    },
+    {
+        "instruction": "The school is planning a field trip. There are 60 students and 10 seats on each school bus. How many buses are needed to take the trip?\n",
+        "output": "",
+        "label": "6"
+    },
+    {
+        "instruction": "John was given $14.00 in order to buy a gift. This covered half of the cost. How much did the gift cost?\n",
+        "output": "",
+        "label": "28"
+    },
+    {
+        "instruction": "15 students split 122 portfolios of paintings. Each student should get the same number of portfolios. How many portfolios of paintings will each of them get?\n",
+        "output": "",
+        "label": "8"
+    },
+    {
+        "instruction": "The difference between two numbers is 24. The smaller number is 46. What is the larger number?\n",
+        "output": "",
+        "label": "70"
+    },
+    {
+        "instruction": "A waiter at 'The Greasy Spoon' restaurant had 39 customers to wait on. During the lunch rush he added another 12 customers. If 49 of the customers didn't leave him a tip, how many customers did leave a tip? \n",
+        "output": "",
+        "label": "2"
+    },
+    {
+        "instruction": "Frank got fifteen pounds of mushroom for family barbecue. If they ate eight pounds, how many pounds were left?\n",
+        "output": "",
+        "label": "7"
+    },
+    {
+        "instruction": "During a senate campaign, a volunteer passed out a \"Vote for Hatfield\" button. The campaign button has a diameter of 8 centimeters. What is the button's circumference?\n",
+        "output": "",
+        "label": "25.12"
+    },
+    {
+        "instruction": "Gwen was organizing her book case making sure each of the shelves had exactly four books on it. If she had five shelves of mystery books and three shelves of picture books, how many books did she have total?\n",
+        "output": "",
+        "label": "32"
+    },
+    {
+        "instruction": "There were 86 trees in a park. 15 of them died and another 23 of them were cut. How many trees were still left?\n",
+        "output": "",
+        "label": "48"
+    },
+    {
+        "instruction": "There are 3 more sections that are undeveloped. Each of the remaining sections has a land area of 2435 square feet. What is the total area of the undeveloped land?\n",
+        "output": "",
+        "label": "7305"
+    },
+    {
+        "instruction": "Lex read another book with 240 pages. If he read the same number of pages for 12 days, how many pages did he read every day?\n",
+        "output": "",
+        "label": "20"
+    },
+    {
+        "instruction": "There are 84 leaves. There are 139 ladybugs on each leaf. How many ladybugs are there in all?\n",
+        "output": "",
+        "label": "11676"
+    },
+    {
+        "instruction": "Annette and Caitlin weigh 95 pounds together. Caitlin and Sara weigh 87 pounds together. How much more does Annette weigh than Sara?\n",
+        "output": "",
+        "label": "8"
+    },
+    {
+        "instruction": "Emily was helping her mom pick apples from the tree in their front yard. Together they picked fourteen totals. If six of the apples weren't ripe yet, how many good apples did they pick?\n",
+        "output": "",
+        "label": "8"
+    },
+    {
+        "instruction": "Isabel had sixteen bottles of water. After a week she had seven left. How many did she drink? \n",
+        "output": "",
+        "label": "9"
+    },
+    {
+        "instruction": "Kendra learns 12 new spelling words each week. Her goal is to learn 60 new words before her eighth birthday. She has already learned 36 new words. How many more words does Kendra need to learn?\n",
+        "output": "",
+        "label": "24"
+    },
+    {
+        "instruction": "A clown gave away eleven balloons to girls and three balloons to boys. How many balloons did he give away total?\n",
+        "output": "",
+        "label": "14"
+    },
+    {
+        "instruction": "Samantha has two pieces of cloth. One piece is 72 inches wide and the other piece is 90 inches wide. She wants to cut both pieces into strips of equal width that are as wide as possible. How wide should she cut the strips?\n",
+        "output": "",
+        "label": "18"
+    },
+    {
+        "instruction": "Even the chipmunks are trying to get away to find other warmer places to stay. If 21 chipmunk families were left from the original 86 families, how many chipmunk families went away?\n",
+        "output": "",
+        "label": "65"
+    },
+    {
+        "instruction": "The Wholesome Bakery baked 5 loaves of bread on Wednesday, 7 loaves of bread on Thursday, 10 loaves of bread on Friday, 14 loaves of bread on Saturday, and 19 loaves of bread on Sunday. If this pattern continues, how many loaves of bread will they bake on Monday?\n",
+        "output": "",
+        "label": "25"
+    },
+    {
+        "instruction": "Mrs. Hilt has a picture frame that is 12 inches high and 10 inches long. What is the perimeter of that picture frame?\n",
+        "output": "",
+        "label": "44"
+    },
+    {
+        "instruction": "Sarah picked 45 apples. Her brother picked 9 apples. How many times as many apples did Sarah pick?\n",
+        "output": "",
+        "label": "5"
+    },
+    {
+        "instruction": "If one round costs $80, how many rounds of golf can you play with $400?\n",
+        "output": "",
+        "label": "5"
+    },
+    {
+        "instruction": "I have 80 cents to buy candy. If each gumdrop costs 4 cents, how many gumdrops can I buy?\n",
+        "output": "",
+        "label": "20"
+    },
+    {
+        "instruction": "Robin is making bead necklaces. She wants to use 31 beads to make 4 necklaces. If she wants each necklace to have the same number of beads, how many beads will she have left over?\n",
+        "output": "",
+        "label": "3"
+    },
+    {
+        "instruction": "Janet has nine oranges and Sharon has seven oranges. How many oranges do Janet and Sharon have together? \n",
+        "output": "",
+        "label": "16"
+    },
+    {
+        "instruction": "You have 7 balloons and your friend has 5 balloons. What's the difference of the number of your balloons and your friend's balloons?\n",
+        "output": "",
+        "label": "2"
+    },
+    {
+        "instruction": "Sean had 45 Starbursts. If Sean gave equal numbers of Starbursts to his 18 friends and then he ate what was left, how many Starbursts did each person eat?\n",
+        "output": "",
+        "label": "2"
+    },
+    {
+        "instruction": "The sum of the digits of a two digit number is 8 and the difference between the number and that formed by reversing the digits is 18. Find the number.\n",
+        "output": "",
+        "label": "53"
+    },
+    {
+        "instruction": "After going down the falls, he then went to Rock Mist Mountains. If the mountain is 50 times farther from the city than Sky Falls and Sky Falls is 8 miles from the city, how far is the Rocky Mist from the city?\n",
+        "output": "",
+        "label": "400"
+    },
+    {
+        "instruction": "At the carnival, nine friends bought eight hundred sixty-five tickets. If they wanted to split all the tickets so each friend got the same amount, how many more tickets would they need to buy?\n",
+        "output": "",
+        "label": "8"
+    },
+    {
+        "instruction": "Ben and Matt received votes in the ratio 2:3. The total number of votes cast was 60. How many votes did Ben get?\n",
+        "output": "",
+        "label": "24"
+    },
+    {
+        "instruction": "Your local radio station is having their yearly music player and concert ticket giveaway. For one minute, every 5th caller will win a music player and every 7th caller will win concert tickets. You were just the first caller to win both a music player and concert tickets! What number caller were you?\n",
+        "output": "",
+        "label": "35"
+    },
+    {
+        "instruction": "Paige raised fifteen goldfish in the pond but stray cats loved eating them. Now she has four left. How many goldfish disappeared?\n",
+        "output": "",
+        "label": "11"
+    },
+    {
+        "instruction": "For a party Cody bought eleven cupcakes. After the party he had two left. How many were eaten at the party? \n",
+        "output": "",
+        "label": "9"
+    },
+    {
+        "instruction": "Mrs. Hilt is baking bread. She needs 5 cups of flour to bake two loaves of bread. How much flour will she need to make one loaf of bread?\n",
+        "output": "",
+        "label": "2.5"
+    },
+    {
+        "instruction": "If Helen sold 12 boxes of Trefoils, how many cases of 12 boxes does Helen pickup from the cookie mom?\n",
+        "output": "",
+        "label": "1"
+    },
+    {
+        "instruction": "While organizing his DVD collection, Seth put 2 DVDs on the first rack, 4 DVDs on the second rack, 8 DVDs on the third rack, 16 DVDs on the fourth rack, and 32 DVDs on the fifth rack. If this pattern continues, how many DVDs will Seth put on the sixth rack?\n",
+        "output": "",
+        "label": "64"
+    },
+    {
+        "instruction": "The teacher gave 29 gold stickers to the first student, 35 gold stickers to the second student, 41 gold stickers to the third student, 47 gold stickers to the fourth student, and 53 gold stickers to the fifth student. If this pattern continues, how many gold stickers will the teacher give to the sixth student?\n",
+        "output": "",
+        "label": "59"
+    },
+    {
+        "instruction": "For the second main course, they were asked to make 500 pieces of fish fillets. If the first team made 189 pieces and the second team made 131 pieces, how many pieces should the third team make?\n",
+        "output": "",
+        "label": "180"
+    },
+    {
+        "instruction": "Edward earned 8 dollars for every lawn he mowed. If he mowed 5 lawns and he already had 7 dollars saved up, how much money does he have total?\n",
+        "output": "",
+        "label": "47"
+    },
+    {
+        "instruction": "Determined to have fun, they travelled to the next amusement park, HappyLand. If they cover a distance of 328 feet for every minute of travel and they travelled for 9 minutes, how far is HappyLand from SFL?\n",
+        "output": "",
+        "label": "2952"
+    },
+    {
+        "instruction": "Maria was buying DVDs of her old favorite TV series. She bought eight DVDs at the store and she bought two online. How many DVDs did she buy total?\n",
+        "output": "",
+        "label": "10"
+    },
+    {
+        "instruction": "Tiffany had six pages of math homework and four pages of reading homework. If each page had three problems on it, how many problems did she have to complete total?\n",
+        "output": "",
+        "label": "30"
+    },
+    {
+        "instruction": "A ballet class wants to divide its 90 members into some large groups at 7 members each and some small groups at 3 members each. In order to make the least number of groups, how many small groups should be made?\n",
+        "output": "",
+        "label": "2"
+    },
+    {
+        "instruction": "Malia is picking berries in the berry patch. She picks 3 berries from the first bush, 4 berries from the second bush, 7 berries from the third bush, and 12 berries from the fourth bush. If this pattern continues, how many berries will Malia pick from the fifth bush?\n",
+        "output": "",
+        "label": "19"
+    },
+    {
+        "instruction": "There were 51 geese in the farmer's field. 28 of the geese flew away. How many geese were left in the field?\n",
+        "output": "",
+        "label": "23"
+    },
+    {
+        "instruction": "To get to school, Jenny decided to ride the school's double decker bus. The bus has a total of 20 rows of seats and each row has a capacity of 4 kids. How many kids in total can ride the school bus?\n",
+        "output": "",
+        "label": "80"
+    },
+    {
+        "instruction": "The Sumata family took a five-day vacation by car. Each day they drove 250 miles. How many total miles did they drive?\n",
+        "output": "",
+        "label": "1250"
+    },
+    {
+        "instruction": "Olivia had 7 math problems to complete. She spent about 4 minutes on each problem and then she spent 3 minutes checking her answers. How many minutes did she spend total?\n",
+        "output": "",
+        "label": "31"
+    },
+    {
+        "instruction": "Chloe was making baggies of cookies with seven cookies in each bag. If she had thirty-four chocolate chip cookies and twenty-nine oatmeal cookies, how many baggies could she make?\n",
+        "output": "",
+        "label": "9"
+    },
+    {
+        "instruction": "Isabel received 14 dollars for her birthday. Later she found some toys that cost 2 dollars each. How many of the toys could she buy?\n",
+        "output": "",
+        "label": "7"
+    },
+    {
+        "instruction": "At the fair Megan had $17 to spend. She spent $6 on rides. How much money does she have left? \n",
+        "output": "",
+        "label": "11"
+    },
+    {
+        "instruction": "At the end of the cave, they found a golden chest. If the chest contains 421 diamonds and 377 rubies, how many more diamonds are there than rubies?\n",
+        "output": "",
+        "label": "44"
+    },
+    {
+        "instruction": "Carmen did 4 sit-ups on Sunday, 8 sit-ups on Monday, 16 sit-ups on Tuesday, 32 sit-ups on Wednesday, and 64 sit-ups on Thursday. If this pattern continues, how many sit-ups will Carmen do on Friday?\n",
+        "output": "",
+        "label": "128"
+    },
+    {
+        "instruction": "The distance travelled by Ben and Tim is in the ratio 3:4. The distance travelled by Ben is 18 miles. Find the distance travelled by Tim.\n",
+        "output": "",
+        "label": "24"
+    },
+    {
+        "instruction": "The ratio of the length of Joey's rope to Chad's rope is 8:3. Joey's rope is 56 cm long. How long is Chad's rope?\n",
+        "output": "",
+        "label": "21"
+    },
+    {
+        "instruction": "The Book Nook sold 27 computer books last week. The sold 15 more cook books than computer books. How many cook books did the Book Nook sell?\n",
+        "output": "",
+        "label": "42"
+    },
+    {
+        "instruction": "Virginia had 13 Sweettarts. If Virginia gave equal numbers of Sweettarts to her 4 friends and then she ate what was left, how many Sweettarts did each person eat?\n",
+        "output": "",
+        "label": "3"
+    },
+    {
+        "instruction": "Two bicycle enthusiasts are leaving Cincinnati at the same time. One is biking 840 miles to Boston. The other is biking 440 miles to Atlanta. What is the greatest number of miles a day each can bike if they want to cover equal distances each day?\n",
+        "output": "",
+        "label": "40"
+    },
+    {
+        "instruction": "Colton has 16 blue marbles and 8 white ones. If he wants to place them in identical groups without any marbles left over, what is the greatest number of groups Colton can make?\n",
+        "output": "",
+        "label": "8"
+    },
+    {
+        "instruction": "Charlie, an aspiring inventor, is planning to make some wings to fulfill his dream to fly around the world. He started by collecting feathers. He needs 900 feathers and he already has 387. How many more feathers does he need to collect?\n",
+        "output": "",
+        "label": "513"
+    },
+    {
+        "instruction": "Eddie is thinking of a number that is divisible by both 8 and 5. What is the smallest possible number that Eddie could be thinking of?\n",
+        "output": "",
+        "label": "40"
+    },
+    {
+        "instruction": "Next on his checklist are wax glues to stick the feathers together. If the feathers require 469 g of wax and right now he just needs 257 g, how many grams of wax glue does he already have?\n",
+        "output": "",
+        "label": "212"
+    },
+    {
+        "instruction": "I have 28 cents in my pocket. How coins could I have on minimization?\n",
+        "output": "",
+        "label": "4"
+    },
+    {
+        "instruction": "Instead of buying from the store, Melody made Christmas cards for the elderly in a nursing home. She had 99 blue sequins which she plans to use as snowflakes for the cards. If she distributes the sequins equally to 12 cards, how many sequins will Melody have left?\n",
+        "output": "",
+        "label": "3"
+    },
+    {
+        "instruction": "Zoe had 42 bottles of water in her fridge. If she drank 25 of them and then bought 30 more, how many bottles would she have?\n",
+        "output": "",
+        "label": "47"
+    },
+    {
+        "instruction": "Dave was making ice using ice trays. He originally had two ice cubes. But made seven more cubes. How many ice cubes did he have totaled?\n",
+        "output": "",
+        "label": "9"
+    },
+    {
+        "instruction": "When five is added to three more than a certain number, the result is 19. What is the number?\n",
+        "output": "",
+        "label": "11"
+    },
+    {
+        "instruction": "Peter wants to split a collection of pencils into groups of 11. Peter has 154 pencils. How many groups will be created?\n",
+        "output": "",
+        "label": "14"
+    },
+    {
+        "instruction": "Alex, Brad, Calvin, and Dennis are playing checkers. Each of the 4 boys played 2 games with every other player. How many games of checkers were played altogether?\n",
+        "output": "",
+        "label": "12"
+    },
+    {
+        "instruction": "Vanessa received six hundred twenty-two dollars for her birthday. Later she found some toys that cost nine dollars each. How much money would she have left if she bought as many as she could?\n",
+        "output": "",
+        "label": "1"
+    },
+    {
+        "instruction": "Maria and her sister want to buy a present for their mother. Maria has $17. Her sister has double that amount. They want to buy their mom a coat that costs $80. How much more money do they need?\n",
+        "output": "",
+        "label": "29"
+    },
+    {
+        "instruction": "An online toy store stocked some toys. It sold 38 toys at the first week and 26 toys at the second week. If it had 19 toys left, how many toys were in stock at the beginning?\n",
+        "output": "",
+        "label": "83"
+    },
+    {
+        "instruction": "Faye's team won their baseball game and scored sixty-eight points total. If Faye scored twenty-eight of the points and everyone else scored eight points each, how many players were on her team?\n",
+        "output": "",
+        "label": "5"
+    },
+    {
+        "instruction": "Oliver had to wash 39 short sleeve shirts and 47 long sleeve shirts before school. If he had only washed 20 of them by the time school started, how many did he not wash? \n",
+        "output": "",
+        "label": "66"
+    },
+    {
+        "instruction": "The friends then proceeded to the rest of the houses in their village. However, Sam had to go home earlier. She got her share of candies which are composed of 10 chewing gums, 15 chocolate bars, and 20 assorted fruit candies. How many candies did she get in total?\n",
+        "output": "",
+        "label": "45"
+    },
+    {
+        "instruction": "On a track for remote-controlled racing cars, racing car A completes the track in 28 seconds, while racing car B completes it in 24 seconds. If they both start at the same time, after how many seconds will they be side by side again?\n",
+        "output": "",
+        "label": "168"
+    },
+    {
+        "instruction": "Mom made 32 chocolate chip cookies. It took 24 minutes to mix the ingredients and 16 minutes to bake. Julie and Matt ate 9 cookies after dinner. How many cookies were left?\n",
+        "output": "",
+        "label": "23"
+    },
+    {
+        "instruction": "Greg and Brad started reading their books at the same time. Greg read 18 pages a day. Brad read 26 pages a day. How many more pages did Brad read than Greg?\n",
+        "output": "",
+        "label": "8"
+    },
+    {
+        "instruction": "Sarah's team played 8 games of basketball. During those 8 games her team's score was: 69, 68, 70, 61, 74, 62, 65 and 74. What is the mean of the scores?\n",
+        "output": "",
+        "label": "67.9"
+    },
+    {
+        "instruction": "A chef bought 2 purple grapes and 2 green grapes. If he already had 3 grapes, how many grapes does he have now? \n",
+        "output": "",
+        "label": "7"
+    },
+    {
+        "instruction": "Jake has six fewer peaches than Steven. Steven has 13 peaches. How many peaches does Jake have? \n",
+        "output": "",
+        "label": "7"
+    },
+    {
+        "instruction": "A company was buying new uniforms for its employees. They bought 121 uniforms total for their 32 stores. About how many uniforms should each store get?\n",
+        "output": "",
+        "label": "4"
+    },
+    {
+        "instruction": "Paige uploaded thirty-five pictures to Facebook. She put fourteen pics into one album and put the rest into three different albums. How many pictures were in each of the three albums?\n",
+        "output": "",
+        "label": "7"
+    },
+    {
+        "instruction": "Ms. Baker has 17 cupcakes. She wants to share them equally among her 3 children so that no one gets more than anyone else. If she gives each child as many cupcakes as possible, how many cupcakes will be left over for Ms. Baker to eat?\n",
+        "output": "",
+        "label": "2"
+    },
+    {
+        "instruction": "They planned to serve some cold drinks as well. If they plan to make 9 pitchers of drinks and each pitcher can fill 6 glasses, how many glasses of drinks are they planning to prepare in total?\n",
+        "output": "",
+        "label": "54"
+    },
+    {
+        "instruction": "Paige had 2 pencils in her desk, 2 in her backpack and 15 at home. How many pencils does Paige have? \n",
+        "output": "",
+        "label": "19"
+    },
+    {
+        "instruction": "A comic book costs 37 cents. The store owner reversed the digits by mistake. He wrote that number on the comic book. How much did the store owner overcharge his customer?\n",
+        "output": "",
+        "label": "36"
+    },
+    {
+        "instruction": "A baker already had seventy-eight cakes but made nine extra. How many cakes did the baker have total?\n",
+        "output": "",
+        "label": "87"
+    },
+    {
+        "instruction": "There were six roses in the vase. Jessica cut some more roses from her flower garden. There are now eighteen roses in the vase. How many roses did she cut ?\n",
+        "output": "",
+        "label": "12"
+    },
+    {
+        "instruction": "Sam was playing basketball with his friend. Sam scored seventy-five points and his friend scored twelve points. How many points did they score total?\n",
+        "output": "",
+        "label": "87"
+    },
+    {
+        "instruction": "Martha's Blossoms sells roses in groups of 9. Across town, Rachel's Blooms sells roses in groups of 19. If a customer wants to buy the same number of roses from both vendors, what is the smallest number of roses the customer will have to buy from each vendor?\n",
+        "output": "",
+        "label": "171"
+    },
+    {
+        "instruction": "Marcus and his friends are starting a recycling project to help the school raise some money for charity. They were tasked to collect different materials and create useful things from those. If Marcus was able to gather 25 milk bottles, and John was able to gather 20 milk bottles, how many milk bottles do they have available for recycling?\n",
+        "output": "",
+        "label": "45"
+    },
+    {
+        "instruction": "Paige had 2 pencils in her desk, 2 in her backpack and 15 at home. What's the difference between the number of pencils in Paige's backpack and at Paige's home?\n",
+        "output": "",
+        "label": "13"
+    },
+    {
+        "instruction": "The Math Counts Club had a party at school. There were 20 cookies and 40 slices of pizza to be shared equally. Each student had the same number of whole cookies and the same number of slices of pizza with nothing left over. What is the greatest number of cookies and pizza slices the students can each get?\n",
+        "output": "",
+        "label": "20"
+    },
+    {
+        "instruction": "At the movie theatre, they give out a free drink to every 75th customer and a free bag of popcorn to every 30th customer. On Monday 3,000 customers came to the theatre. How many people received both free items?\n",
+        "output": "",
+        "label": "20"
+    },
+    {
+        "instruction": "Faye picked eighty-eight flowers for her friend's wedding. She was making bouquets with five flowers in each one. If forty-eight of the flowers wilted before the wedding, how many bouquets could she still make?\n",
+        "output": "",
+        "label": "8"
+    },
+    {
+        "instruction": "Annie also planned the time she would spend going around the 9 blocks in her village. If she plans on spending just 8 minutes on each block, how much time would it take for her to finish trick or treating?\n",
+        "output": "",
+        "label": "72"
+    },
+    {
+        "instruction": "A package had eighteen cookies in it. After eating some there were nine left. How many were eaten? \n",
+        "output": "",
+        "label": "9"
+    },
+    {
+        "instruction": "Adam needed to climb ninety-six stair steps to reach the rooftop. He already climbed seventy-four. How many stair steps do left for Adam to climb now?\n",
+        "output": "",
+        "label": "22"
+    },
+    {
+        "instruction": "There were 31 groups of people at the bowling alley. If the total number of people was 177, about how many people were in each group?\n",
+        "output": "",
+        "label": "6"
+    },
+    {
+        "instruction": "Mr. Guzman bought 48 doughnuts packed equally into 4 boxes. How many doughnuts were in each box?\n",
+        "output": "",
+        "label": "12"
+    },
+    {
+        "instruction": "A vase can hold seven flowers. If a florist had nine hundred five flowers she wanted to put equally into vases, how many flowers would be in the last vase that isn't full?\n",
+        "output": "",
+        "label": "2"
+    },
+    {
+        "instruction": "A summer sports camp had 88 soccer campers, basketball campers and football campers. If 24 of them were basketball campers and 32 of them were football campers, how many soccer campers were there?\n",
+        "output": "",
+        "label": "32"
+    },
+    {
+        "instruction": "A state seal, which is round, hangs in the capitol building. It has a diameter of 2 meters. What is the seal's area?\n",
+        "output": "",
+        "label": "3.14"
+    },
+    {
+        "instruction": "Rachel had to complete 9 pages of math homework and 2 pages of reading homework. How many pages did she have to complete total?\n",
+        "output": "",
+        "label": "11"
+    },
+    {
+        "instruction": "Amy had 26 music files and 36 video files on her flash drive. If she deleted 48 of the files, how many files were still on her flash drive? \n",
+        "output": "",
+        "label": "14"
+    },
+    {
+        "instruction": "Kaleb has seventeen shirts. If he got rid of seven of them, how many shirts would Kaleb have? \n",
+        "output": "",
+        "label": "10"
+    },
+    {
+        "instruction": "There are 25 pencils in Frances's pencil collection. If the pencils are organized into 5 groups, how big is each group?\n",
+        "output": "",
+        "label": "5"
+    },
+    {
+        "instruction": "Two numbers are in the ratio 5:7. The difference between the numbers is 12. What is the larger number?\n",
+        "output": "",
+        "label": "42"
+    },
+    {
+        "instruction": "Maria had sixty-seven pieces of candy. She ate sixty-four pieces. How many pieces of candy does Maria have now? \n",
+        "output": "",
+        "label": "3"
+    },
+    {
+        "instruction": "Theo tied his dog, Flash, to a pole in the middle of the yard using a 10 ft. leash. Flash dug holes in the yard everywhere he could reach. Theo had to reseed the part of the lawn that Flash destroyed. Grass seed costs $1.40 per package and covers 50 square feet. What did it cost Theo to reseed the lawn?\n",
+        "output": "",
+        "label": "9.80"
+    },
+    {
+        "instruction": "Alyssa has 30 books in her library. She bought several books at a yard sale over the weekend. She now has 88 books in her library. How many books did she buy at the yard sale ?\n",
+        "output": "",
+        "label": "58"
+    },
+    {
+        "instruction": "They also gathered paper to create some star-shaped papier-mache. If each star requires 20 pieces of paper and they had 680 pieces of paper, how many stars were they able to make?\n",
+        "output": "",
+        "label": "34"
+    },
+    {
+        "instruction": "Marco and his dad went strawberry picking. Together their strawberries weighed 23 pounds. Marco's strawberries weighed 14 pounds. How much did his dad's strawberries weigh?\n",
+        "output": "",
+        "label": "9"
+    },
+    {
+        "instruction": "Michael has some fish in his fish tank. Ben gave him 18 more fish. Now he has 49. How many fish did he have to begin with?\n",
+        "output": "",
+        "label": "31"
+    },
+    {
+        "instruction": "Rachel is third in line. Julie is 2 spots in front of her. What place in line is Julie?\n",
+        "output": "",
+        "label": "1"
+    },
+    {
+        "instruction": "Paige had 43 math problems and 12 science problems for homework. If she finished 44 of the problems at school, how many problems did she have to do for homework? \n",
+        "output": "",
+        "label": "11"
+    },
+    {
+        "instruction": "Brian has 39 pencils. He gives 18 pencils to a friend. He buys 22 more pencils. How many pencils does Brian have now?\n",
+        "output": "",
+        "label": "43"
+    },
+    {
+        "instruction": "A car dealer sold 14 cars on the first day, 16 cars on the second day, and 27 cars on the third day. How many cars did the car dealer sell on the 3 days?\n",
+        "output": "",
+        "label": "57"
+    },
+    {
+        "instruction": "Candies come in packages of 4. Shirley ate 10 candies. How many candies does she have left?\n",
+        "output": "",
+        "label": "2"
+    },
+    {
+        "instruction": "Marcia spent 300 minutes working on her science project. How many hours did she spend on her science project?\n",
+        "output": "",
+        "label": "5"
+    },
+    {
+        "instruction": "Gary had 73 dollars. He spent 55 dollars on a pet snake. How many dollars did Gary have left?\n",
+        "output": "",
+        "label": "18"
+    },
+    {
+        "instruction": "Bob and his four friends decided to divide the pizza bill evenly. If each person paid $8, then what was the total price for the pizza?\n",
+        "output": "",
+        "label": "40"
+    },
+    {
+        "instruction": "Mr. Lee wants to load 134 tons of his fruits. A large truck can load 15 tons of fruits and small truck can load 7 tons. In order to use the least number of trucks and have every truck fully occupied, how many large trucks should be used?\n",
+        "output": "",
+        "label": "8"
+    },
+    {
+        "instruction": "A pet store had eighty-five gerbils. If they sold sixty-nine of them, how many would they have left?\n",
+        "output": "",
+        "label": "16"
+    },
+    {
+        "instruction": "She wants to know how many children will go trick or treating in their village. If there are 6 children on each of the 9 blocks, how many children will go trick or treating in Annie's village?\n",
+        "output": "",
+        "label": "54"
+    },
+    {
+        "instruction": "Rob is very fond of tall structures. He likes collecting pictures and comparing them. Two of his favorite buildings are Chicago's Sears Tower and Dubai's Burj Khalifa. If Burj Khalifa stands at 830 meters high and Sears stands at 527 meters high, how much higher is Burj Khalifa than Sears?\n",
+        "output": "",
+        "label": "303"
+    },
+    {
+        "instruction": "They served a total of 179 adults and 141 children, if 156 of all the people they served are male, how many are female?\n",
+        "output": "",
+        "label": "164"
+    },
+    {
+        "instruction": "Their neighbors, wanting to welcome them, also brought in some food. If one neighbor brought 75 hotdogs and another neighbor brought 25 less hotdogs than the first one, how many hotdogs were brought by the neighbors in total?\n",
+        "output": "",
+        "label": "125"
+    },
+    {
+        "instruction": "Britney brewed lemon tea that's enough to fill ten cups. If she serves this to her parents and three siblings and they share this equally, how many cups will each have?\n",
+        "output": "",
+        "label": "2"
+    },
+    {
+        "instruction": "There are 544 pots. Each pot has 32 flowers in it. How many flowers are there in all?\n",
+        "output": "",
+        "label": "17408"
+    },
+    {
+        "instruction": "A fast food restaurant had ninety-nine hotdogs. After selling some they had ninety-seven left. How many hotdogs did they sell? \n",
+        "output": "",
+        "label": "2"
+    },
+    {
+        "instruction": "A clothing company used 2 buttons on jeans and 5 buttons on shirts. If they made 9 shirts and 1 pair of jeans, how many buttons would they use total?\n",
+        "output": "",
+        "label": "47"
+    },
+    {
+        "instruction": "After the party, Kevin estimated that the total money they spent on food, drinks, and utensils sums up to $560.00. If they spent $268.00 on food and $118.00 on utensils and other stuff, how much did they spend on drinks?\n",
+        "output": "",
+        "label": "174"
+    },
+    {
+        "instruction": "Will had twenty-eight bottles of water. If he drank seven each day, how many days would they last him?\n",
+        "output": "",
+        "label": "4"
+    },
+    {
+        "instruction": "The little league stadium has 92 seats. 47 people came to the game today. 38 people were holding banners. How many seats were empty?\n",
+        "output": "",
+        "label": "45"
+    },
+    {
+        "instruction": "Michelle also noticed that she was able to save a few $50 dollar bills. If she has a total of 7 pieces of $50 dollar bills, what is the total value of all her $50 bills combined?\n",
+        "output": "",
+        "label": "350"
+    },
+    {
+        "instruction": "An industrial machine can make 6 shirts every minute. How many shirts would it have made in 6 minutes?\n",
+        "output": "",
+        "label": "36"
+    },
+    {
+        "instruction": "Tommy has $79. He wants to buy a $35 camera. He also wants to buy a $59 CD player. How much more money does Tommy need?\n",
+        "output": "",
+        "label": "15"
+    },
+    {
+        "instruction": "For the roof, John would need 2 sets of metal bars for support. If each set has 7 metal bars, how many metal bars are there in all?\n",
+        "output": "",
+        "label": "14"
+    },
+    {
+        "instruction": "Kiera has 14 blue envelopes. She has 6 fewer yellow envelopes than blue envelopes. She has 3 times as many green envelopes as yellow envelopes. How many envelopes does Kiera have in all?\n",
+        "output": "",
+        "label": "46"
+    },
+    {
+        "instruction": "A store sold eight cold drinks and three hot drinks. How many drinks did they sell total?\n",
+        "output": "",
+        "label": "11"
+    },
+    {
+        "instruction": "Zoe bought two coloring books. One had 44 pictures and the other had 44. After one week she had already colored 20 of the pictures. How many pictures does she still have to color? \n",
+        "output": "",
+        "label": "68"
+    },
+    {
+        "instruction": "Veronica is making emergency-preparedness kits to share with friends. She has 20 bottles of water and 12 cans of food, which she would like to distribute equally among the kits, with nothing left over. What is the greatest number of kits Veronica can make?\n",
+        "output": "",
+        "label": "4"
+    },
+    {
+        "instruction": "There are 757 pounds of sand to be filled into bags. If each bag has a capacity of 65 pounds, how many bags are needed?\n",
+        "output": "",
+        "label": "12"
+    },
+    {
+        "instruction": "A florist had 50 roses. If she sold 15 of them and then later picked 21 more, how many roses would she have?\n",
+        "output": "",
+        "label": "56"
+    },
+    {
+        "instruction": "A quarter equals $0.25. How many quarters equal $2.25?\n",
+        "output": "",
+        "label": "9"
+    },
+    {
+        "instruction": "If the all the participants found a total 40 eggs from the club house, 25 eggs from the park and 15 eggs from the town hall, how many Easter eggs were found that day?\n",
+        "output": "",
+        "label": "80"
+    },
+    {
+        "instruction": "It is 78 miles to Grandma's house. Mr. Welch drove 35 miles. He stopped to buy a pie for dessert. Then he drove 18 miles and stopped to put gas in the car. How many more miles until he reaches Grandma's house?\n",
+        "output": "",
+        "label": "25"
+    },
+    {
+        "instruction": "There are some rooms in a building. 35 of them are classrooms, 10 of them are office and the remaining 6 are reading rooms. How many rooms are in the building?\n",
+        "output": "",
+        "label": "51"
+    },
+    {
+        "instruction": "Amy had twelve pencils. If she used four of them, how many would she have left? \n",
+        "output": "",
+        "label": "8"
+    },
+    {
+        "instruction": "Richard and Bruno played miniature golf. Richard's score was 62. Bruno's score was 14 points lower than Richard's score. What was Bruno's score?\n",
+        "output": "",
+        "label": "48"
+    },
+    {
+        "instruction": "A P.E. teacher needs to divide 14 male students and 7 female students into teams, each with the same combination of male students and female students and nobody left out. What is the greatest number of teams that can be formed?\n",
+        "output": "",
+        "label": "7"
+    },
+    {
+        "instruction": "Jake has 36 comic books. His brother has 15 more comic books than Jake. How many comic books do they have altogether?\n",
+        "output": "",
+        "label": "87"
+    },
+    {
+        "instruction": "Jacqueline had 16 plums, 18 guavas and 21 apples. She gave some of them to Jane and had 15 fruits left. How many fruits did Jacqueline give Jane?\n",
+        "output": "",
+        "label": "40"
+    },
+    {
+        "instruction": "A pet shop has a total of 77 animals. 32 of them are kittens and 15 of them hamsters, the rest are birds. How many birds are there?\n",
+        "output": "",
+        "label": "30"
+    },
+    {
+        "instruction": "On a table there were 2 green apples, 3 red apples and 14 yellow apples. How many apples were on the table? \n",
+        "output": "",
+        "label": "19"
+    },
+    {
+        "instruction": "86 students are going hiking. Each school- bus can take 9 students. How many school-buses are needed?\n",
+        "output": "",
+        "label": "9"
+    },
+    {
+        "instruction": "A contractor was buying wall outlets for a new house he was building. Each room needed 6 outlets. If the house has 7 rooms, how many outlets does he need total?\n",
+        "output": "",
+        "label": "42"
+    },
+    {
+        "instruction": "It's Halloween in Chicago. Bob, Mary, John, Sue and Sam dressed as superheroes and went out to do some trick or treating. After passing through the houses on Main Street, the five friends counted how much candy they have. If Bob has 10 candies, Mary has 5, Sue has 20, John has 5 as well and Sam has also 10 candies. How many candies did they have together?\n",
+        "output": "",
+        "label": "50"
+    },
+    {
+        "instruction": "For Bianca's birthday 5 of her friends gave her 6 dollars. How much money did she get for her birthday?\n",
+        "output": "",
+        "label": "30"
+    },
+    {
+        "instruction": "Andrew and Jeffrey walk together. When the ratio of Andrew's steps to Jeffrey's steps was 3:4. If Andrew walks 150 steps, how many steps does Jeffrey walk?\n",
+        "output": "",
+        "label": "200"
+    },
+    {
+        "instruction": "Marin has nine apples and Donald has two apples. How many apples do Marin and Donald have together?\n",
+        "output": "",
+        "label": "11"
+    },
+    {
+        "instruction": "Chris, tasked to lead the newspaper collection, was able to obtain 42 newspapers from their neighborhood. If his sister Lily helped him and was able to get 23 more newspapers from another block, how many newspapers were they able to collect together?\n",
+        "output": "",
+        "label": "65"
+    },
+    {
+        "instruction": "The weight of 5 single beds is 50 kg. The total weight of 2 single beds and 4 double beds is 100 kg. How much heavier is a double bed than a single bed?\n",
+        "output": "",
+        "label": "10"
+    },
+    {
+        "instruction": "Carol had eighty-one pieces of paper in her folder. After a week she had thirty-eight left. How many pieces did she use in the week? \n",
+        "output": "",
+        "label": "43"
+    },
+    {
+        "instruction": "While playing a trivia game, Adam answered five questions correct in the first half and five questions correct in the second half. If each question was worth five points, what was his final score?\n",
+        "output": "",
+        "label": "50"
+    },
+    {
+        "instruction": "Linda has 34 candies. Chloe has 28. How many candies do they have in all?\n",
+        "output": "",
+        "label": "62"
+    },
+    {
+        "instruction": "2 toucans are sitting on a tree limb. 1 more toucan joins them. How many toucans in all?\n",
+        "output": "",
+        "label": "3"
+    },
+    {
+        "instruction": "There are twelve birds on the fence. Eight more birds land on the fence. How many birds are on the fence?\n",
+        "output": "",
+        "label": "20"
+    },
+    {
+        "instruction": "For Halloween Debby and her sister combined the candy they received. Debby had 32 pieces of candy while her sister had 42. If they ate 35 pieces the first night, how many pieces do they have left? \n",
+        "output": "",
+        "label": "39"
+    },
+    {
+        "instruction": "Rachel bought some wrapping paper for Christmas that was 4 feet long and with an area of 20 square feet. What is the width of the wrapping paper?\n",
+        "output": "",
+        "label": "5"
+    },
+    {
+        "instruction": "A chef had seventy-seven cherries. If he used sixty of them to make a pie, how many cherries would he still have? \n",
+        "output": "",
+        "label": "17"
+    },
+    {
+        "instruction": "Annie is about to celebrate her birthday next week so her friends decided to throw her a surprise birthday party. Jessica, Annie's best friend, is hosting the party. She plans on making pizza for everyone. If she bought 15 pieces of pepperoni, 10 pieces of salami and 30 pieces of bacon as meat ingredients, how many pieces of meat did she buy in total?\n",
+        "output": "",
+        "label": "55"
+    },
+    {
+        "instruction": "A restaurant has 94 pieces of cutlery. 38 are forks, 27 are knives, and the rest are spoons. How many spoons are there?\n",
+        "output": "",
+        "label": "29"
+    },
+    {
+        "instruction": "A box of cupcakes cost $six. If you had eight hundred twenty-one dollars and bought as many boxes as you could, how much money would you have left?\n",
+        "output": "",
+        "label": "5"
+    },
+    {
+        "instruction": "1 lonely pigeons was eating breadcrumbs. Another pigeon came to eat breadcrumbs, too. How many pigeons are eating breadcrumbs now?\n",
+        "output": "",
+        "label": "2"
+    },
+    {
+        "instruction": "If Tom plans to fix 158 watches at the rate of 12 watches per day, how many days does he need to fix the watches?\n",
+        "output": "",
+        "label": "14"
+    },
+    {
+        "instruction": "If he spent a total of $700.00 and all the gifts cost a total of $561.00, how much money did he spend on giftwrapping and other expenses?\n",
+        "output": "",
+        "label": "139"
+    },
+    {
+        "instruction": "She had 35 mistletoe stickers and wanted to place them equally in 8 cards. How many mistletoe stickers will she have left?\n",
+        "output": "",
+        "label": "3"
+    },
+    {
+        "instruction": "A restaurant added a new outdoor section that was 4 feet wide and 6 feet long. What is the area of their new outdoor section?\n",
+        "output": "",
+        "label": "24"
+    },
+    {
+        "instruction": "Ed had 22 more marbles than Doug. Doug lost 8 of his marbles at the playground. How many more marble did Ed have than Doug then?\n",
+        "output": "",
+        "label": "30"
+    },
+    {
+        "instruction": "Each table in a break room can seat eight people. If the break room has four tables, how many people can sit in there?\n",
+        "output": "",
+        "label": "32"
+    },
+    {
+        "instruction": "Katie had twelve pencils in her desk and three more in her backpack. How many did she have total?\n",
+        "output": "",
+        "label": "15"
+    },
+    {
+        "instruction": "Isabella's hair is 18 inches long. If she gets a haircut and now her hair is 9 inches long, how much of Isabella's hair got cut off?\n",
+        "output": "",
+        "label": "9"
+    },
+    {
+        "instruction": "In a two digit number, the sum of the two digits is 9. If the digits are reversed , the number is increased by 9. Find the number.\n",
+        "output": "",
+        "label": "45"
+    },
+    {
+        "instruction": "Adi bought a pencil for 35 cents. He paid with a one-dollar bill. How much change will he get?\n",
+        "output": "",
+        "label": "65"
+    },
+    {
+        "instruction": "While playing a video game Ned lost thirteen lives. Now he has seventy lives. How many lives did Ned have at the start? \n",
+        "output": "",
+        "label": "83"
+    },
+    {
+        "instruction": "Mrs. Hilt went to a concert. A total of 65,899 people attended the concert. The next week, she went to a second concert, which had 119 more people in attendance. How many people were at the second concert?\n",
+        "output": "",
+        "label": "66018"
+    },
+    {
+        "instruction": "In preparation for a party, Brant is putting desserts onto platters. The chocolate cake is cut into 15 pieces and the cheesecake is cut into 6 pieces. If he wants to prepare identical platters without having any cake left over, what is the greatest number of platters he can prepare?\n",
+        "output": "",
+        "label": "3"
+    },
+    {
+        "instruction": "There were 17 girls and 32 boys trying out for the schools basketball team. If only 10 of them got called back, how many students didn't make the cut? \n",
+        "output": "",
+        "label": "39"
+    },
+    {
+        "instruction": "A family is preparing backpacks filled with school supplies to donate to children in need. They have 9 pencils and 15 notebooks. If they want to make all the backpacks the same, with no school supplies left over, what is the greatest number of backpacks they can fill?\n",
+        "output": "",
+        "label": "3"
+    },
+    {
+        "instruction": "The ratio of the number correct answers to incorrect answers on Sam's math test is 7:3. The difference between correct and incorrect answers is 20. What was the total number of questions on the test?\n",
+        "output": "",
+        "label": "50"
+    }
+]
