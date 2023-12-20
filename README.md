@@ -1,4 +1,4 @@
-# MCC-KD: Multi-CoT Consistent Knowledge Distillation (Llama Code Section)
+# MCC-KD: Multi-CoT Consistent Knowledge Distillation (Updating in progress)
 
 1. We provide training sets, validation sets, test sets, and extracted teacher rationales for datasets including GSM8K, CSQA, SVAMP, and ASDiv in the data directory.
 (Note that only the GSM8K dataset contains relatively complete rationales. Currently, the provided extracted rationales are only a part of our dataset, and we are still in the process of organizing more data.)
