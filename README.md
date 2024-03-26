@@ -15,7 +15,7 @@ chenhzh59@mail2.sysu.edu.cn, wusy39@mail2.sysu.edu.cn, quanxj3@mail.sysu.edu.cn
 
 
 <div align="center">
-    <a href="https://arxiv.org/pdf/2310.14747.pdf"><img src="assets/Paper-Arxiv-orange.svg" ></a>
+    <a href="https://arxiv.org/pdf/2310.14747.pdf"><img src="assets/Paper-PDF-orange.svg" ></a>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FX-PLUG%2FMulti-LLM-Agent&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
@@ -165,11 +165,11 @@ We provide a preview version JSON file at `data/GSM8K/train-multi-cots-preview.j
 
 ## Citation
 ```
-@misc{chen2024roleinteract,
-      title={RoleInteract: Evaluating the Social Interaction of Role-Playing Agents}, 
-      author={Hongzhan Chen and Hehong Chen and Ming Yan and Wenshen Xu and Xing Gao and Weizhou Shen and Xiaojun Quan and Chenliang Li and Ji Zhang and Fei Huang and Jingren Zhou},
-      year={2024},
-      eprint={2403.13679},
+@misc{chen2023mcckd,
+      title={MCC-KD: Multi-CoT Consistent Knowledge Distillation}, 
+      author={Hongzhan Chen and Siyue Wu and Xiaojun Quan and Rui Wang and Ming Yan and Ji Zhang},
+      year={2023},
+      eprint={2310.14747},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
