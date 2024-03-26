@@ -15,7 +15,7 @@ chenhzh59@mail2.sysu.edu.cn, wusy39@mail2.sysu.edu.cn, quanxj3@mail.sysu.edu.cn
 
 
 <div align="center">
-    <a href="https://arxiv.org/pdf/2310.14747.pdf"><img src="assets/Paper-PDF-orange.svg" ></a>
+    <a href="https://arxiv.org/pdf/2310.14747.pdf"><img src="assets/Paper-Arxiv-orange.svg" ></a>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FX-PLUG%2FMulti-LLM-Agent&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
