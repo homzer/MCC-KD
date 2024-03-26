@@ -1,2 +1,5 @@
-.idea
 test
+log
+.idea
+*.iml
+*__pycache__*
